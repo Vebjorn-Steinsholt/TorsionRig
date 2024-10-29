@@ -1,0 +1,148 @@
+Date 11.06.2024 
+ Time 15:29 
+ Error Code -1967353903 
+ Source SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001<APPEND>
+
+<b>Complete call chain:</b>
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ Message Error -1967353903 occurred at SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+
+Possible reason(s):
+
+LabVIEW DSC: The communication between the Modbus master and slave devices was interrupted. Check the connection status between the two devices.
+
+
+Complete call chain:
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ 
+Date 11.06.2024 
+ Time 15:29 
+ Error Code -1967353903 
+ Source SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001<APPEND>
+
+<b>Complete call chain:</b>
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ Message Error -1967353903 occurred at SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+
+Possible reason(s):
+
+LabVIEW DSC: The communication between the Modbus master and slave devices was interrupted. Check the connection status between the two devices.
+
+
+Complete call chain:
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ 
+Date 11.06.2024 
+ Time 15:29 
+ Error Code -1967353903 
+ Source SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001<APPEND>
+
+<b>Complete call chain:</b>
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ Message Error -1967353903 occurred at SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+
+Possible reason(s):
+
+LabVIEW DSC: The communication between the Modbus master and slave devices was interrupted. Check the connection status between the two devices.
+
+
+Complete call chain:
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ 
+Date 11.06.2024 
+ Time 15:30 
+ Error Code -1967353903 
+ Source SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001<APPEND>
+
+<b>Complete call chain:</b>
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ Message Error -1967353903 occurred at SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+
+Possible reason(s):
+
+LabVIEW DSC: The communication between the Modbus master and slave devices was interrupted. Check the connection status between the two devices.
+
+
+Complete call chain:
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ 
+Date 11.06.2024 
+ Time 15:30 
+ Error Code -1967353903 
+ Source SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001<APPEND>
+
+<b>Complete call chain:</b>
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ Message Error -1967353903 occurred at SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+
+Possible reason(s):
+
+LabVIEW DSC: The communication between the Modbus master and slave devices was interrupted. Check the connection status between the two devices.
+
+
+Complete call chain:
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ 
+Date 11.06.2024 
+ Time 15:30 
+ Error Code 66 
+ Source SubVI in SubVIs.lvlib:TCP Master.lvclass:Protocol Write.vi:6190001->SubVIs.lvlib:IP Data Unit.lvclass:Write ADU Packet.vi:1820001->Modbus Master.lvclass:Read Holding Registers.vi:2420001->ModbusRead.vi->ModbusMotorDriver.vi 
+ Message Error 66 occurred at SubVI in SubVIs.lvlib:TCP Master.lvclass:Protocol Write.vi:6190001->SubVIs.lvlib:IP Data Unit.lvclass:Write ADU Packet.vi:1820001->Modbus Master.lvclass:Read Holding Registers.vi:2420001->ModbusRead.vi->ModbusMotorDriver.vi
+
+Possible reason(s):
+
+LabVIEW: (Hex 0x42) The network connection was closed by the peer. If you are using the Open VI Reference function on a remote VI Server connection, verify that the machine is allowed access by selecting Tools>>Options>>VI Server on the server side. 
+ 
+Date 11.06.2024 
+ Time 15:30 
+ Error Code -1967353903 
+ Source SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001<APPEND>
+
+<b>Complete call chain:</b>
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ Message Error -1967353903 occurred at SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+
+Possible reason(s):
+
+LabVIEW DSC: The communication between the Modbus master and slave devices was interrupted. Check the connection status between the two devices.
+
+
+Complete call chain:
+     SubVIs.lvlib:IP Data Unit.lvclass:Read ADU Packet.vi:5030001
+     Modbus Master.lvclass:Read Holding Registers.vi:2420001
+     ModbusRead.vi
+     ModbusMotorDriver.vi 
+ 
